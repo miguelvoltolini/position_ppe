@@ -1,0 +1,230 @@
+#produto1{
+    position: absolute;
+    width: 109px;
+    height: 72px;
+    top: 16px;
+    left: 17px;
+    border: 2px solid black;
+    border-radius: 16px;
+    font-size: 22px;
+    font-family: verdana;
+    background-color: brown;
+    color: white;
+}
+#produto1:hover{
+    background-color: indianred;
+}
+#text_prod1{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+
+
+
+#produto2{
+    position: absolute;
+    width: 106px;
+    height: 52px;
+    top: 14px;
+    left: 186px;
+    border: 2px solid black;
+    border-radius: 40px;
+    font-size: 22px;
+    font-family: verdana;
+    background-color: brown;
+    color: white;
+}
+#produto2:hover{
+    background-color: indianred;
+}
+#text_prod2{
+    position: absolute;
+    top: 20px;
+    left: 17px;
+}
+
+
+#produto3{
+    position: absolute;
+    width: 113px;
+    height: 90px;
+    top: 10px;
+    left: 333px;
+    border: 2px solid black;
+    border-radius: 40px 0px 40px 0px;
+    font-size: 22px;
+    font-family: verdana;
+    background-color: brown;
+    color: white;
+}
+#produto3:hover{
+    background-color: indianred;
+}
+#text_prod3{
+    position: absolute;
+    top: 20px;
+    left: 17px;
+}
+
+
+#produto4{
+    position: absolute;
+    width: 175px;
+    height: 55px;
+    top: 170px;
+    left: -30px;
+    border: 2px solid black;
+    font-family: verdana;
+    font-size: 22px;
+    background-color: brown;
+    color: white;
+    transform: rotate(270deg);
+}
+#text_prod4{
+    position: absolute;
+    top: 22px;
+    left: 22px;
+}
+#produto4:hover{
+    background-color: indianred;
+}
+
+
+#produto5{
+    position: absolute;
+    width: 146px;
+    height: 51px;
+    top: 160px;
+    left: 70px;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-family: verdana;
+    font-size: 22px;
+    background-color: brown;
+    color: white;
+    transform: rotate(270deg);
+}
+#text_prod5{
+    position: absolute;
+    top: 22px;
+    left: 22px;
+}
+#produto5:hover{
+    background-color: indianred;
+}
+
+
+#produto6{
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    top: 100px;
+    left: 200px;
+    border: 2px solid black;
+    font-family: verdana;
+    font-size: 22px;
+    background-color: brown;
+    color: white;
+    transform: rotate(313deg);
+}
+#text_prod6{
+    position: absolute;
+    top: 22px;
+    left: 22px;
+    transform: rotate(313deg);
+}
+#produto6:hover{
+    background-color: indianred;
+}
+
+
+#produto7{
+    position: absolute;
+    width: 113px;
+    height: 90px;
+    top: 134px;
+    left: 333px;
+    border: 2px solid black;
+    border-radius: 40px 0px 40px 0px;
+    font-size: 22px;
+    font-family: verdana;
+    background-color: brown;
+    color: white;
+    transform: rotate(270deg);
+}
+#produto7:hover{
+    background-color: indianred;
+}
+#text_prod7{
+    position: absolute;
+    top: 20px;
+    left: 17px;
+}
+
+
+
+#produto8{
+    position: absolute;
+    width: 106px;
+    height: 52px;
+    top: 200px;
+    left: 200px;
+    border: 2px solid black;
+    border-radius: 40px;
+    font-size: 22px;
+    font-family: verdana;
+    background-color: brown;
+    color: white;
+}
+#produto8:hover{
+    background-color: indianred;
+}
+#text_prod8{
+    position: absolute;
+    top: 20px;
+    left: 17px;
+}
+
+#produto9{
+    position: absolute;
+    width: 171px;
+    height: 23px;
+    top: 310px;
+    left: 30px;
+    border: 2px solid black;
+    font-family: verdana;
+    font-size: 22px;
+    background-color: brown;
+    color: white;
+}
+#text_prod9{
+    position: absolute;
+    top: 22px;
+    left: 22px;
+}
+#produto9:hover{
+    background-color: indianred;
+}
+
+
+#produto10{
+    position: absolute;
+    width: 171px;
+    height: 23px;
+    top: 310px;
+    left: 300px;
+    border: 2px solid black;
+    font-family: verdana;
+    font-size: 22px;
+    background-color: brown;
+    color: white;
+}
+#text_prod10{
+    position: absolute;
+    top: 22px;
+    left: 22px;
+}
+#produto10:hover{
+    background-color: indianred;
+}
